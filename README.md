@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tpmcaloon
 - 👀 I’m interested in Programming
-- 🌱 I’m currently studying second year Computer Science
+- 🌱 I’m currently studying my final year of Computer Science
 - 📫 How to reach me Email: tpmcaloon98@gmail.com
 
 <!---
