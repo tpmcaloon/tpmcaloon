@@ -20,12 +20,10 @@
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
 </a>
 <a href="https://github.com/tpmcaloon">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&show_icons=true&theme=react" />
+  <img height=150 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
 </a>
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 tpmcaloon/tpmcaloon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
