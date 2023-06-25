@@ -25,7 +25,7 @@
 <a href="https://github.com/tpmcaloon">
   <img height="95" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
 </a>
-
+<br />
 
 Spotify
 <img height=300 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
