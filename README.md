@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://github.com/tpmcaloon">
-  <img height="80" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
+  <img height="80" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=obeforms&theme=react" />
 </a>
 <a href="https://github.com/tpmcaloon">
   <img height="80" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
