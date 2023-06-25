@@ -19,7 +19,9 @@
 <a href="https://github.com/tpmcaloon">
   <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
 </a>
-
+<a href="https://github.com/tpmcaloon">
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
+</a>
 <a href="https://github.com/tpmcaloon">
   <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
 </a>
