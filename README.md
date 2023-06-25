@@ -16,8 +16,8 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&show_icons=true&theme=react" />
 </a>
 
-  <img height="125" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
-  <img height="125" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
+  <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tpmcaloon&repo=tpmcaloon&theme=react" />
 
 <img height=300 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
 
