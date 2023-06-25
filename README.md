@@ -10,10 +10,10 @@
 🌱 Continuously learning and growing in the ever-evolving world of technology. Let's connect and collaborate on exciting projects!
 
 <a href="https://github.com/tpmcaloon">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=tpmcaloon&show_icons=true&theme=react&hide_title=true&include_all_commits=true&rank_icon=github&count_private=true" />
+  <img height="125" align="center" src="https://github-readme-stats.vercel.app/api?username=tpmcaloon&show_icons=true&theme=react&hide_title=true&include_all_commits=true&rank_icon=github&count_private=true" />
 </a>
 <a href="https://github.com/tpmcaloon">
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&show_icons=true&theme=react" />
+  <img height="125" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&show_icons=true&theme=react" />
 </a>
 
 <a href="https://github.com/tpmcaloon">
