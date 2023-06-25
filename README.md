@@ -14,7 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tpmcaloon&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/tpmcaloon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tpmcaloon&layout=compact&langs_count=8&show_icons=true&theme=react" />
 </a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
