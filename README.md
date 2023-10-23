@@ -9,6 +9,8 @@
 
 🌱 Continuously learning and growing in the ever-evolving world of technology. Let's connect and collaborate on exciting projects!
 
+![image](https://github.com/tpmcaloon/tpmcaloon/assets/95248992/b1bcbf8b-a84d-4e8b-a2be-7f6def5a38a4)
+
 <a href="https://github.com/tpmcaloon">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=tpmcaloon&show_icons=true&theme=react&hide_title=true&include_all_commits=true&rank_icon=github&count_private=true" />
 </a>
