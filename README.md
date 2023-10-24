@@ -1,14 +1,8 @@
 ## Hey 👋, I'm Tom!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Tom McAloon on LinkedIn" title="Follow tpmcaloon on LinkedIn"/>](https://www.linkedin.com/in/tom-mcaloon-07b942222/)
+[<img src="https://github.com/tpmcaloon/tpmcaloon/assets/95248992/6fb0ae70-565f-47f3-806b-3be6deedf7f9" height="60em" align="center" alt="Check Out My Website" title="Check Out My Website"/>](https://tpmcaloon.com)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Tom on Instagram" title="Follow tpmcaloon on Instagram"/>](https://instagram.com/tom_mcaloon)
-![image](https://tpmcaloon.com)
-
-
-<p> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
-</p>
 
 🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast 🌟
 
@@ -42,12 +36,15 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
+</p>
+
 <p align="center"> 
   Contribution Chart<br>
   <img src="https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
-🌐 Website: https://tpmcaloon.com
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
