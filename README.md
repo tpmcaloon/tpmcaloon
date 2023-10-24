@@ -41,7 +41,7 @@
   <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
 </p>
 
-<p align="center"> 
+<p> 
   Contribution Chart<br>
   <img src="https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg" />
 </p>
