@@ -3,8 +3,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Tom McAloon on LinkedIn" title="Follow tpmcaloon on LinkedIn"/>](https://www.linkedin.com/in/tom-mcaloon-07b942222/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Tom on Instagram" title="Follow tpmcaloon on Instagram"/>](https://instagram.com/tom_mcaloon)
 
-![Snake animation](https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg)
-
 🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast 🌟
 
 🎯 Transforming ideas into elegant solutions through code and collaboration. Constantly seeking innovative ways to streamline processes and enhance user experiences.
@@ -12,6 +10,11 @@
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
+</p>
+
+<p align="center"> 
+  Contribution Chart<br>
+  ![Snake animation](https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 <h3>💻 Tech Stack:</h3>
