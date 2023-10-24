@@ -2,20 +2,19 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Tom McAloon on LinkedIn" title="Follow tpmcaloon on LinkedIn"/>](https://www.linkedin.com/in/tom-mcaloon-07b942222/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Tom on Instagram" title="Follow tpmcaloon on Instagram"/>](https://instagram.com/tom_mcaloon)
+![image](https://tpmcaloon.com)
+
+
+<p> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
+</p>
 
 🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast 🌟
 
 🎯 Transforming ideas into elegant solutions through code and collaboration. Constantly seeking innovative ways to streamline processes and enhance user experiences.
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
-</p>
-
-<p align="center"> 
-  Contribution Chart<br>
-  ![Snake animation](https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg)
-</p>
+🌱 Continuously learning and growing in the ever-evolving world of technology. Let's connect and collaborate on exciting projects!
 
 <h3>💻 Tech Stack:</h3>
 <p>
@@ -43,10 +42,12 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-🌱 Continuously learning and growing in the ever-evolving world of technology. Let's connect and collaborate on exciting projects!
+<p align="center"> 
+  Contribution Chart<br>
+  <img src="https://github.com/tpmcaloon/tpmcaloon/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 🌐 Website: https://tpmcaloon.com
-🔗 LinkedIn: https://www.linkedin.com/in/tom-mcaloon-07b942222/
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
@@ -86,7 +87,6 @@
   <summary><h2>🎧 What I'm Listening To</h2></summary>
 <img height=300 align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=tpmcaloon98&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
 </details>
-
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
   <p><a href="https://holopin.io/@tpmcaloon"><img src="https://holopin.me/tpmcaloon" alt="@tpmcaloon&#39;s Holopin board"></a></p>
