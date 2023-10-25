@@ -78,12 +78,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tpmcaloon's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tpmcaloon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/tpmcaloon/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
-
 </details>
 
 
