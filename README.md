@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Tom!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="20em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/tom-mcaloon-07b942222/)
-[<img src="https://github.com/tpmcaloon/tpmcaloon/assets/95248992/6fb0ae70-565f-47f3-806b-3be6deedf7f9" height="30em" align="center" alt="Check Out My Website" title="Check Out My Website"/>](https://tpmcaloon.com)
+[<img src="./logo.png" height="30em" align="center" alt="Check Out My Website" title="Check Out My Website"/>](https://tpmcaloon.com)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="20em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://instagram.com/tom_mcaloon)
 
 🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast 
