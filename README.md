@@ -4,7 +4,7 @@
 [<img src="./logo.png" height="30em" align="center" alt="Check Out My Website" title="Check Out My Website"/>](https://tpmcaloon.com)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="20em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://instagram.com/tom_mcaloon)
 
-🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast 
+🚀 Passionate Software Developer | Full-Stack Engineer | Problem Solver | Open Source Enthusiast
 
 🎯 Transforming ideas into elegant solutions through code and collaboration.
 
