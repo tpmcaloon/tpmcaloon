@@ -43,6 +43,8 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
+<div class="contra-hire-me-button" data-analyticsUserId="4ebb1dae-15bb-47b5-8f72-e4061a0efbc7" data-theme="light" data-username="tom_mc_aloon_fxt0k7g2"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
 <p> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/tpmcaloon/count.svg" />
